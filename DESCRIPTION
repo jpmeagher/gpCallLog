@@ -6,8 +6,12 @@ Author: Joe Meagher
 Maintainer: Joe Meagher <josephmeagher07@gmail.com>
 Description: This package contains data on incoming and outgoing calls for
     a rural Irish General Practise with 3 Full Time Equivalent Doctors.
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends: 
     R (>= 2.10)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.1.2
