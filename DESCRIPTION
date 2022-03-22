@@ -1,11 +1,11 @@
 Package: gpCallLog
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Title: Call Logs for a Rural Irish GP's Surgery
+Version: 0.0.0.9000
+Author: Joe Meagher
+Maintainer: Joe Meagher <josephmeagher07@gmail.com>
+Description: This package contains data on incoming and outgoing calls for
+    a rural Irish General Practise with 3 Full Time Equivalent Doctors.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
